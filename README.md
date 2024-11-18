@@ -1,7 +1,7 @@
 #### NAME:PRAVEEN.K
 #### REG.NO:212223040152
 
-# EX-04: Monitoring soil moisture value in Thing speak cloud
+# EX-05: Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
